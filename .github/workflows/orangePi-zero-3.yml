@@ -6,7 +6,7 @@
 # Blog: https://p3terx.com
 #=================================================
 
-name: Build bcm27xx/bcm2710 openwrt
+name: Build orangepi-zero-3 openwrt
 
 on:
   workflow_dispatch:
