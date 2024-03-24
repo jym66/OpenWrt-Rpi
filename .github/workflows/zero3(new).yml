@@ -6,7 +6,7 @@
 # Blog: https://p3terx.com
 #=================================================
 
-name: Build orangepi-zero-3 openwrt
+name: Build orangepi-zero-3(new) openwrt
 
 on:
   workflow_dispatch:
